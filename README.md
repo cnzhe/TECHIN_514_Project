@@ -1,11 +1,8 @@
 # Smart Temperature Detector for Electronic Devices
 The Electronic Device Temperature Detector is designed to measure the temperature change of all electronic devices - whether they are in proper operating condition or not.
-## Project Overview
+## Project Overview and General Sketch
 
 ![](/assets/Slide1.png)
-
-## Device Sketches
-
 
 ## Sensor Device
 The Sensor Device, equipped with a temperature sensor and ESP32 Bluetooth module, transmits data to the Display Device. 
