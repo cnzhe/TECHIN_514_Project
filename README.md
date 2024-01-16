@@ -1,6 +1,7 @@
 # Smart Temperature Detector for Electronic Devices
-## Project Overview
 The Electronic Device Temperature Detector is designed to measure the temperature change of all electronic devices - whether they are in proper operating condition or not.
+## Project Overview
+
 ![](/assets/Slide1.png)
 
 ## Device Sketches
