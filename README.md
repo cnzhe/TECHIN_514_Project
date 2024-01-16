@@ -1,6 +1,8 @@
-# TECHIN_514_Project
+# Smart Temperature Detector for Electronic Devices
 ## Project Overview
-Title, Explanation, and Sketch: Provide a title for your project, a brief explanation (1-3 sentences), and a sketch of what it will look like highlighting physical features.
+The Electronic Devices Temperature Detector is designed to measure temperature variations in all electronic devices, whether in operation or not. However, measuring temperature is not always convenient, especially in scenarios like using a gaming laptop where accessing the rear exhaust fan's temperature in real-time is challenging. This underscores the importance of connecting the sensor and display components. By separating the temperature sensing part and the display part and transmitting data through Bluetooth signals, the sensor device can be conveniently placed near the device under test, while the display device is positioned within visible range, providing real-time temperature insights. This innovative solution enhances the accessibility and usability of temperature measurements, ensuring a seamless monitoring experience for electronic devices.
+## Project Sketches
+
 ## Sensor Device
 Sensor Slide: Describe the sensor device with part numbers, functionalities, and any relevant information.
 ## Display Device
