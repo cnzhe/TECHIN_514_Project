@@ -6,7 +6,7 @@ The Electronic Device Temperature Detector is designed to measure the temperatur
 ![](/assets/Slide2.png)
 ## Display Device
 ![](/assets/Slide3.png)
-## Communication Principle and Detailed Diagram
+## System Communication Architecture and Detailed Function Diagram
 
-Communication Slide: Explain how the devices communicate with each other.
-Detailed Diagram: Include a detailed diagram illustrating how the project will work.
+System architecture showing how devices communicate with each other: 10pts
+Diagram of how each function works in detail: 10pts
