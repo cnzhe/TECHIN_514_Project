@@ -10,9 +10,8 @@ The Sensor Device, equipped with a temperature sensor and ESP32 Bluetooth module
 【Sensor Slide: Describe the sensor device with part numbers, functionalities, and any relevant information.】
 
 ## Display Device
-The Display Device features an ESP32, Automotive Gauge Stepper Motor, LEDs, and OLED for real-time temperature display and status indication.
 
-【Display Slide: Describe the display device with part numbers, functionalities, and any relevant information.】
+![](/assets/Slide1.png)
 
 ## Communication Principle and Detailed Diagram
 
