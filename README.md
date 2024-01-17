@@ -3,10 +3,7 @@ The Electronic Device Temperature Detector is designed to measure the temperatur
 ## Project Overview and General Sketch
 ![](/assets/Slide1.png)
 ## Sensor Device
-The Sensor Device, equipped with a temperature sensor and ESP32 Bluetooth module, transmits data to the Display Device. 
-
-【Sensor Slide: Describe the sensor device with part numbers, functionalities, and any relevant information.】
-
+![](/assets/Slide2.png)
 ## Display Device
 ![](/assets/Slide3.png)
 ## Communication Principle and Detailed Diagram
