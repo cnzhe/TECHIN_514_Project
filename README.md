@@ -8,7 +8,7 @@ The Sensor Device, equipped with a temperature sensor and ESP32 Bluetooth module
 【Sensor Slide: Describe the sensor device with part numbers, functionalities, and any relevant information.】
 
 ## Display Device
-![](/assets/Slide3.png) 
+![](/assets/Slide3.png
 ## Communication Principle and Detailed Diagram
 
 Communication Slide: Explain how the devices communicate with each other.
