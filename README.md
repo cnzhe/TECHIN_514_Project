@@ -8,3 +8,4 @@ The Electronic Device Temperature Detector is designed to measure the temperatur
 ![](/assets/Slide3.png)
 ## System Communication Architecture and Detailed Function Diagram
 ![](/assets/Slide4.png)
+![](/assets/Slide5.png)
