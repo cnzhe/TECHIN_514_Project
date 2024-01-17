@@ -7,6 +7,4 @@ The Electronic Device Temperature Detector is designed to measure the temperatur
 ## Display Device
 ![](/assets/Slide3.png)
 ## System Communication Architecture and Detailed Function Diagram
-
-System architecture showing how devices communicate with each other: 10pts
-Diagram of how each function works in detail: 10pts
+![](/assets/Slide4.png)
