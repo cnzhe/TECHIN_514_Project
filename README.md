@@ -3,17 +3,17 @@ The Electronic Device Temperature Detector is designed to measure the temperatur
 ## Project Overview and General Sketch
 ![](/assets/Slide1.png)
 Updated:
-![](/assets/Slide1final.png)
+![](/assets/Slide1Final.png)
 ## Sensor Device
 ![](/assets/Slide2.png)
 Updated:
-![](/assets/Slide2final.png)
+![](/assets/Slide2Final.png)
 ## Display Device
 ![](/assets/Slide3.png)
 Updated:
-![](/assets/Slide3final.png)
+![](/assets/Slide3Final.png)
 ## System Communication Architecture and Detailed Function Diagram
 ![](/assets/Slide4.png)
 ![](/assets/Slide5.png)
 Updated:
-![](/assets/Slide5final.png)
+![](/assets/Slide5Final.png)
